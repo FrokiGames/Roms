@@ -1,2 +1,5 @@
 Rom[[:space:]]Original.zip filter=lfs diff=lfs merge=lfs -text
 Rom[[:space:]]de[[:space:]]Maikiki.zip filter=lfs diff=lfs merge=lfs -text
+Rom_de_Maikiki.zip filter=lfs diff=lfs merge=lfs -text
+Rom_Original.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
